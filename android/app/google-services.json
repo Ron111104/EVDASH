@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "941687054252",
+    "project_id": "evdash-5cd5a",
+    "storage_bucket": "evdash-5cd5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941687054252:android:d4781201d1d1955983e409",
+        "android_client_info": {
+          "package_name": "com.galaxies.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941687054252-r837q3v4d7spbaqf2fdgun1de46d2gls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlwEX1zVpsvxPT1ByHo2TDmpT3UKwLGro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941687054252-r837q3v4d7spbaqf2fdgun1de46d2gls.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941687054252-nv4etl2vil8igf7mkdhh1c4aqb5l7c01.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.galaxies.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
